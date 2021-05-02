@@ -4,6 +4,9 @@
     box-sizing: border-box;
     font-family: sans-serif;
 }
+html{
+    scroll-behaviour: smooth;
+}
 header{
     width: 100%;
     height: 11vh;
